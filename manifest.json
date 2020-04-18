@@ -36,8 +36,13 @@
     "/libs/jquery.js",
     "/js/dialog.js"
   ],
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs",
+    "http://*/"
+  ],
   "offline_enabled": true,
   "default_locale": "en",
-  "permissions": ["activeTab"],
   "optional_permissions": ["desktopCapture"]
 }
