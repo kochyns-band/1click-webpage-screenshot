@@ -22,8 +22,16 @@ You can host and share unlimited images forever for free.
 * You can Save the screenshot on your computer as PNG file.
 * You can EDIT THE PAGE before taking the screenshot (change any
 text, titles)
-          
 
+---
+### Odoo update
+
+This extension was [forked](https://github.com/kochyns-band/odoo_task_screenshot) for creating and updating screenshot in Odoo system where was installed this [app](https://github.com/kochyns-band/odoo_task_screenshot)
+When screenshot was made this extension allows you to create task and to attach screenshot.
+
+![image01](images/readme01.png)
+
+![image02](images/readme02.png)
 ---
 
 -This extension is an open-source extension. What is it mean for you:

@@ -1,6 +1,6 @@
 {
-  "name": "__MSG_name__",
-  "version": "36.0.0",
+  "name": "1CE - Webpage Screenshot (Odoo Edition)",
+  "version": "36.0.1",
 
   "commands": {
     "visible_screenshot": {
