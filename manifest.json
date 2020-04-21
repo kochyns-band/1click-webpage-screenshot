@@ -39,8 +39,7 @@
   "permissions": [
     "activeTab",
     "storage",
-    "tabs",
-    "http://*/"
+    "tabs"
   ],
   "offline_enabled": true,
   "default_locale": "en",
